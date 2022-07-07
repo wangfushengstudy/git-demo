@@ -9,4 +9,8 @@ hello world!
 hello world!
 hello world!
 11111111111111111111111111
-master
+<<<<<<< HEAD
+master test
+=======
+hot-fix test
+>>>>>>> hot-fix
